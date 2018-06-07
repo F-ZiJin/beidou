@@ -1,6 +1,6 @@
 <template lang="html">
   <div>
-    这里是{{ name }}页
+    这里是{{ name }}页111111
   </div>
 </template>
 

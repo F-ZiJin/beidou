@@ -1,7 +1,7 @@
 <template lang="html">
   <div>
     这里是{{ name }}页
-    1112222
+    1112
   </div>
 </template>
 
